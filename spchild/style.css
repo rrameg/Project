@@ -1,0 +1,22 @@
+/*
+ Theme Name:     Customizr Child
+ Theme URI:      http://saintpeterschurch.net/
+ Description:    Customizr Child for Saint Peter's
+ Author:         Saint Peter's Admin
+ Author URI:     http://saintpeterschurch.net/
+ Template:       customizr
+ Version:        0.0.1
+*/
+
+/*
+
+.tc-header {
+  border-top: 5px solid #000000;
+  
+} */
+
+.header-skin-light .topnav-navbars__container {
+
+	background-color: blue;
+
+}
