@@ -17,4 +17,12 @@ So here is how I got everything going:
 		<li>Each release of Apache, MySQL and PHP has its own settings and its own files (datas for MySQL).</li>
 	<ul>
 </ul>
+<ul>
+	<li>Using wampserver</li>
+	<ul>
+		<li>The “www” directory will be automatically created (usually c:\wamp\www)</li>
+		<li>Create a subdirectory in “www” and put your PHP files inside.</li>
+		<li>Click on the “localhost” link in the WampSever menu or open your internet browser and go to the URL : http://localhost</li>
+	</ul>
+</ul>
 
