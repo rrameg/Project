@@ -49,8 +49,7 @@ So here is how I got everything going:
 <ul>
 	<li>Now that the web based is setup, we need to add the site to Dreamweaver.</li>
 	<ul>
-		<li>Create a new site.</li>
-		
+		<li>Create a new site.</li>		
 			<ul>
 			<li>The name of the site can be anything</li>
 			<li>Make sure the local site folder is pointing to where you put WordPress in your wamp folder</li>
