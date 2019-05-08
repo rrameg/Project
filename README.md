@@ -8,7 +8,7 @@ Another dilemma was it was hard to edit the live site while it was live. One wro
 I'm pretty savvy with Dreamweaver, so I figured I should be able to edit the site in real time using Dreamweaver instead of using the web-based version of WordPress. The great thing about Dreamweaver is as I made changes and saw that they worked and didn't mess anything up, I could just push those files right to the online server.
 <br><br>
 So here is how I got everything going:
-<br><br>
+<br>
 <ul>
 	<li>Download WampServer (http://www.wampserver.com/en/)</li>
 	<ul>
