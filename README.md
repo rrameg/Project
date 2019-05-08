@@ -9,7 +9,6 @@ I'm pretty savvy with Dreamweaver, so I figured I should be able to edit the sit
 <br><br>
 So here is how I got everything going:
 <br><br>
-
 <ul>
 	<li>Download WampServer (http://www.wampserver.com/en/)</li>
 	<ul>
