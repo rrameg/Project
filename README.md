@@ -1,9 +1,15 @@
 # Project
 DPR 212 Final Project
  
-This project came about by wanting to add a more updated look and more functionality to a church website that was last updated over 5 years ago. The site was originally built on wordpress but other than contect we really couldn't change anything. Another dilemma was it was hard to edit the live site while it was live. So early on in the process I figured I had to be able to edit a local copy. I had installed wordpress on my computer before using wamp but I was looking for sa way to gain more control over the site. I'm pretty savvy with dreamweaver, so I figured I should be able to edit the site in real time using dreamweaver instead of using the web based version of wordpress. The great thing about dreamweaver is as I made changes and saw that they worked and dudn't mess anything up, I could just push those files right to the online server. Here are the steps to getting this running on your PC:
+This project came about by wanting to add a more updated look, and more functionality to a church website that was last updated over 5 years ago. The site was originally built on WordPress but other than the content we really couldn't change anything. 
 
-1) Download WampServer (http://www.wampserver.com/en/)
+Another dilemma was it was hard to edit the live site while it was live. One wrong character or bracket and the whole site goes down. So early on in the process I figured I need to be able to edit a local copy of the site. I had installed WordPress on my computer many times before using WampServer, but I was looking for way to gain more control over the site. 
+
+I'm pretty savvy with Dreamweaver, so I figured I should be able to edit the site in real time using Dreamweaver instead of using the web based version of WordPress. The great thing about Dreamweaver is as I made changes and saw that they worked and didn't mess anything up, I could just push those files right to the online server. 
+
+So here is how I got everything going:
+
+1) Download Wamp erver (http://www.wampserver.com/en/)
 
 
 	• Double click on the downloaded file and just follow the instructions. Everything is automatic. The WampServer package is delivered whith the latest releases of Apache, MySQL and PHP.
@@ -34,4 +40,17 @@ If you are not comfortable with renaming files, step 3 is optional and you can s
 		○ If you installed WordPress in the root directory, you should visit: http://example.com/
 		○ If you installed WordPress in its own subdirectory called blog, for example, you should visit: http://example.com/blog/
     
-   3) Now that the web based
+   3) Now that the web based is setup we need to add the site to Dreamweaver.
+	- Create a new site.
+		○ The name of the site can be anything
+		○ Make sure the local site folder is pointing to where you put WordPress in your wamp folder
+		○ Under server creating a testing server
+		○ On the basic screen make sure you connect using "Local/Network" and the Web URL is http://localhost/name of wordpress folder/
+		○ Under advanced make sure the server model is "PHP MySQL
+		○ Click Save, Save, and Done
+		○ The files should populate on the right
+		○ Open your index.php file
+		○ At the top select "Discover" so Dreamweaver can communicate with all the files in the installation.
+		○ And now you can begin editing any file you choose.
+
+To use the template I used, just download all the files in GitHub to a zip. Extract the files into your WampServer folder WordPress folder and you are good to go.
