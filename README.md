@@ -15,7 +15,7 @@ So here is how I got everything going:
 		<li>Double click on the downloaded file and just follow the instructions. Everything is automatic. The WampServer package is delivered whith the latest releases of Apache, MySQL and PHP.</li>
 		<li>Once WampServer is installed, you can manually add aditionals Apache, Php or MySql (only VC9, VC10 and VC11 compiled) versions. Explanations will be provided on the forum.</li>
 		<li>Each release of Apache, MySQL and PHP has its own settings and its own files (datas for MySQL).</li>
-	<ul>
+	</ul>
 </ul>
 <ul>
 	<li>Using wampserver</li>
@@ -25,4 +25,6 @@ So here is how I got everything going:
 		<li>Click on the “localhost” link in the WampSever menu or open your internet browser and go to the URL : http://localhost</li>
 	</ul>
 </ul>
+
+
 
